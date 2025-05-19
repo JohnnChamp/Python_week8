@@ -35,7 +35,7 @@ A time-series analysis comparing Kenya, the United States, and India across key 
 
    ```bash
    git clone <repo-url>
-   cd covid19-analysis
+   cd myproject
    ```
 2. **Install dependencies** (preferably in a virtual environment):
 
